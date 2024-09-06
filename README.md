@@ -2,6 +2,8 @@
 
 This repository contains code to generate comprehensive testing instructions for the **Red Bus** mobile app using screenshots of the app interface. The project leverages **Groq** and **Gradio** to handle image processing and generate detailed testing instructions with AI. The code works with images to create precise, step-by-step testing guidance for key app features such as seat selection, bus filters, and offers.
 
+[Watch Video](https://www.loom.com/share/3b1a156ba5a64068b77fc8ec742b28f5?sid=a77303be-9b2c-4fbc-ae3e-9d065461a088)
+
 ## Features
 - **Image Upload and Processing**: Upload screenshots of the app and resize them to a target resolution.
 - **AI-Powered Testing Instruction Generation**: Using the Groq API with the llava-v1.5-7b-4096-preview model, the system creates testing instructions for app features.

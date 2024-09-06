@@ -63,3 +63,6 @@ Once the app is running, open the Gradio interface in your browser. Upload scree
 ## Future Enhancements
 - Support for additional languages for testing instructions.
 - Improved image processing with more formats and higher resolution handling.
+
+![image](https://github.com/user-attachments/assets/26544fc4-1451-4865-9bf3-2ebeb5dafdde)
+

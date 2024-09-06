@@ -13,6 +13,8 @@ This repository contains code to generate comprehensive testing instructions for
   - Offers and Promotions
   - Filters for Time, Price, and Preferences
   - Detailed Bus Information
+ 
+  https://raw.githubusercontent.com/manas95826/myracle-llava/main/bus-booking-app-e1686737684590.png
   
 ## How it Works
 1. Upload app screenshots.

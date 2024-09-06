@@ -22,6 +22,9 @@ This repository contains code to generate comprehensive testing instructions for
 2. Provide optional context to refine the AI output.
 3. The AI analyzes the images and returns a set of testing instructions for the app features visible in the screenshots.
 
+![Uploading image.png…]()
+
+
 ## Setup
 1. Clone the repository:
    ```bash

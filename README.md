@@ -22,7 +22,8 @@ This repository contains code to generate comprehensive testing instructions for
 2. Provide optional context to refine the AI output.
 3. The AI analyzes the images and returns a set of testing instructions for the app features visible in the screenshots.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/4be889b6-0df0-4332-87ef-d010fb0f5c3b)
+
 
 
 ## Setup

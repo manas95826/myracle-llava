@@ -53,6 +53,9 @@ This repository contains code to generate comprehensive testing instructions for
 ## Usage
 Once the app is running, open the Gradio interface in your browser. Upload screenshots of the Red Bus app, provide optional context, and click "Describe Testing Instructions" to generate AI-powered instructions.
 
+![image](https://github.com/user-attachments/assets/e82703bf-b3a6-4181-8d7b-fff53b6bbebd)
+
+
 ## File Structure
 - **main.py**: Core script to handle image uploads, resizing, and testing instruction generation.
 - **requirements.txt**: Contains all required libraries (Gradio, Pillow, Groq).

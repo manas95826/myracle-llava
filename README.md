@@ -1,8 +1,4 @@
-Here’s a sample README for your GitHub repository:
-
----
-
-# myracle-llava
+# Myracle-llava
 
 This repository contains code to generate comprehensive testing instructions for the **Red Bus** mobile app using screenshots of the app interface. The project leverages **Groq** and **Gradio** to handle image processing and generate detailed testing instructions with AI. The code works with images to create precise, step-by-step testing guidance for key app features such as seat selection, bus filters, and offers.
 
